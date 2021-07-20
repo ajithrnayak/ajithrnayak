@@ -7,9 +7,6 @@ I'm also passionate about design, and I believe I'm a decent enough designer. In
 Checkout my new <br/>
 blog thing - https://ajith.blog <br/>
 website thing - https://ajith.xyz <br/>
-fun thing - https://icebreaker.tips <br/>
-
-Currently, building an iOS app to neatly organize useful links in a simplest way, alongside learning CloudKit & RxSwift.
 
 ## 👋
 
