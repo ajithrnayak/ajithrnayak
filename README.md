@@ -1,35 +1,42 @@
-## Namaste
+# Namaste, I'm Ajith 🙏
 
-A senior software engineer and wannabe designer based in Bengaluru, India. With nearly a decade of experience in iOS development, I'm currently building immersive mobile experiences as a Senior iOS Engineer.
+**📍 Bengaluru, India | 📱 Apple platforms since 2012 | 🧭 Tech lead, mobile platforms**
 
-As a curious tinkerer, I spend my evenings exploring web frameworks and experimenting with new technologies. My love for coding goes hand in hand with my eye for captivating design.
+I build iOS apps for a living and small tools on the side, and I write about Swift, SwiftUI and Xcode on [ajith.xyz](https://ajith.xyz/writing).
 
-Checkout my new <br/>
-blog thing - https://ajith.blog <br/>
-website thing - https://ajith.xyz <br/>
+## Start here
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="Waving Hello!">
+- 🧹 **[xpunge](https://github.com/ajithrnayak/xpunge)**: free up the disk space Xcode takes. `brew install ajithrnayak/tap/xpunge`
+- ✍️ **[Articles](https://ajith.xyz/writing)**: how-tos and notes on Swift, SwiftUI and Xcode, from 2014 on
+- 🤝 **[Work with me](https://ajith.xyz/hire)**: a few consulting projects each year, plus [mentorship](https://ajith.xyz/mentorship)
 
-Say hello at [@ajithrnayak](https://twitter.com/ajithrnayak)
+## Projects
 
-#### Check this out
+### Tools for Apple developers
+- 🧹 **[xpunge](https://github.com/ajithrnayak/xpunge)** - See how much disk space Xcode uses, and reclaim it safely. Read-only until you ask it to clean.
 
-Here's a gesture of appreciation for visiting my github. [This might help you](https://ajith.blog/xcode-users-can-free-up-space-on-your-mac).
+### Apps
+- 🧾 **[Rent receipt generator](https://rent-receipt-generator.ajith.xyz)** - Free rent receipts for HRA, made in your browser. No sign-up, no email, no phone number. ([source](https://github.com/ajithrnayak/rent-receipt-generator))
 
-<br/>
-<img src="https://visitor-badge.glitch.me/badge?page_id=ajithrnayak" alt="visitor badge" />
+### Samples and learning
+- 🎧 **[VLCKit-Example](https://github.com/ajithrnayak/VLCKit-Example)** - Play .ogg audio in a SwiftUI app with VLCKit. ([article](https://ajith.xyz/writing/how-to-play-ogg-files-on-iOS-with-VLCKit))
+- 🧩 **[WeMeet](https://github.com/ajithrnayak/WeMeet)** - SwiftUI, MVVM, Core Data and async/await in one small app.
+- 🎨 **[Portfolio inspirations](https://github.com/ajithrnayak/portfolio-inspirations)** - Personal websites worth learning from.
 
-<!--
-**ajithrnayak/ajithrnayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Now
 
-Here are some ideas to get you started:
+- Taking xpunge to a 1.0: CI, playground devices, Xcode 27 support.
+- Adding a newsletter to ajith.xyz.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Writing
+
+- [Xcode users can free up space on your Mac](https://ajith.xyz/writing/xcode-users-can-free-up-space-on-your-mac), the article behind xpunge
+- [Elements of SwiftUI](https://ajith.xyz/writing/elements-of-swiftui)
+- [How to play .ogg audio files on iOS with VLCKit](https://ajith.xyz/writing/how-to-play-ogg-files-on-iOS-with-VLCKit)
+- [React Native vs Flutter in 2023](https://ajith.xyz/writing/react-native-vs-flutter-in-2023-a-comprehensive-comparison)
+
+More at [ajith.xyz/writing](https://ajith.xyz/writing) · [RSS](https://ajith.xyz/rss.xml)
+
+## Connect
+
+[ajith.xyz](https://ajith.xyz) · [LinkedIn](https://www.linkedin.com/in/ajithrnayak) · [CV](https://ajith.xyz/cv) · [Hire me](https://ajith.xyz/hire)
